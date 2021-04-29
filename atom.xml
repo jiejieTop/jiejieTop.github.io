@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>杰杰的博客</title>
+  
+  <subtitle>ღ( ´･ᴗ･` )我怎么辣么可爱(*╹▽╹*)</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jiedev.com/"/>
+  <updated>2021-04-29T11:22:56.537Z</updated>
+  <id>https://jiedev.com/</id>
+  
+  <author>
+    <name>杰杰</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>OpenCV学习【001】</title>
+    <link href="https://jiedev.com/opencv001/"/>
+    <id>https://jiedev.com/opencv001/</id>
+    <published>2021-04-29T11:20:10.000Z</published>
+    <updated>2021-04-29T11:22:56.537Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是OpenCV学习&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./images/loading.png&quot; data-original=&quot;http://qiniu.jiejie01.top/image/20210429192245.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>闲谈：我为什么热爱开源。</title>
+    <link href="https://jiedev.com/open-source/"/>
+    <id>https://jiedev.com/open-source/</id>
+    <published>2020-05-17T15:54:23.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;hello！公众号的兄弟姐妹们大家好，我们今天来聊一聊我热爱的事情——&lt;strong&gt;开源&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;回想几年前，我刚学C语言的时候，觉得这东西很好玩，也很有兴趣，居然能让我操控电脑，虽然能做的东西不对，也就打印点字符在屏幕上，但这确实却让我喜欢上了
+        
+      
+    
+    </summary>
+    
+      <category term="闲谈开源" scheme="https://jiedev.com/categories/%E9%97%B2%E8%B0%88%E5%BC%80%E6%BA%90/"/>
+    
+    
+      <category term="闲谈" scheme="https://jiedev.com/tags/%E9%97%B2%E8%B0%88/"/>
+    
+      <category term="开源" scheme="https://jiedev.com/tags/%E5%BC%80%E6%BA%90/"/>
+    
+      <category term="GitHub" scheme="https://jiedev.com/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程11 —— libuv stream 流句柄解读</title>
+    <link href="https://jiedev.com/libuv-11/"/>
+    <id>https://jiedev.com/libuv-11/</id>
+    <published>2020-04-24T11:16:05.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程10 —— libuv stream 流句柄解读</title>
+    <link href="https://jiedev.com/libuv-10/"/>
+    <id>https://jiedev.com/libuv-10/</id>
+    <published>2020-04-24T11:16:05.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程9——libuv async异步句柄解读</title>
+    <link href="https://jiedev.com/libuv-9/"/>
+    <id>https://jiedev.com/libuv-9/</id>
+    <published>2020-04-23T11:16:05.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程8—— signal 信号句柄解读</title>
+    <link href="https://jiedev.com/libuv-8/"/>
+    <id>https://jiedev.com/libuv-8/</id>
+    <published>2020-04-22T11:16:01.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程7——libuv线程解读</title>
+    <link href="https://jiedev.com/libuv-7/"/>
+    <id>https://jiedev.com/libuv-7/</id>
+    <published>2020-04-21T08:18:17.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程6——check handle解读</title>
+    <link href="https://jiedev.com/libuv-6/"/>
+    <id>https://jiedev.com/libuv-6/</id>
+    <published>2020-04-20T08:15:08.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程5——prepare handle解读</title>
+    <link href="https://jiedev.com/libuv-5/"/>
+    <id>https://jiedev.com/libuv-5/</id>
+    <published>2020-04-19T07:14:27.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程4——idle handle解读</title>
+    <link href="https://jiedev.com/libuv-4/"/>
+    <id>https://jiedev.com/libuv-4/</id>
+    <published>2020-04-18T07:13:17.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程3——libuv事件循环</title>
+    <link href="https://jiedev.com/libuv-3/"/>
+    <id>https://jiedev.com/libuv-3/</id>
+    <published>2020-04-17T07:13:13.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程2——libuv框架初窥</title>
+    <link href="https://jiedev.com/libuv-2/"/>
+    <id>https://jiedev.com/libuv-2/</id>
+    <published>2020-04-16T07:13:05.000Z</published>
+    <updated>2021-04-29T10:48:39.702Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【libuv高效编程】libuv学习超详细教程1——libuv的编译与安装</title>
+    <link href="https://jiedev.com/libuv-1/"/>
+    <id>https://jiedev.com/libuv-1/</id>
+    <published>2020-04-15T07:13:07.000Z</published>
+    <updated>2021-04-29T11:19:44.293Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;libuv系列文章&quot;&gt;&lt;a href=&quot;#libuv系列文章&quot; class=&quot;headerlink&quot; title=&quot;libuv系列文章&quot;&gt;&lt;/a&gt;libuv系列文章&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="网络" scheme="https://jiedev.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="libuv" scheme="https://jiedev.com/tags/libuv/"/>
+    
+      <category term="网络" scheme="https://jiedev.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="Linux" scheme="https://jiedev.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-7】ROS自定义消息</title>
+    <link href="https://jiedev.com/ros-7/"/>
+    <id>https://jiedev.com/ros-7/</id>
+    <published>2020-04-10T13:43:41.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;这篇文章讲解我们自己按需定义消息。&lt;/p&gt;
+&lt;h1 id=&quot;ROS系列文章&quot;&gt;&lt;a href=&quot;#ROS系列文章&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-6】ROS工作空间、package 及 catkin 编译系统</title>
+    <link href="https://jiedev.com/ros-6/"/>
+    <id>https://jiedev.com/ros-6/</id>
+    <published>2020-04-08T13:43:41.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;其实从前几篇文章中我也有提及过&lt;strong&gt;ROS
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-5】深入了解ROS话题通信机制的过程</title>
+    <link href="https://jiedev.com/ros-5/"/>
+    <id>https://jiedev.com/ros-5/</id>
+    <published>2020-04-06T16:29:08.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;在上一篇文章中简单了解了ROS话题通信机制，但是它内部的通信过程，很多人都是不知道的，今天我看了 &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-4】嘴对嘴讲解ROS的核心概念——ROS话题通信机制</title>
+    <link href="https://jiedev.com/ros-4/"/>
+    <id>https://jiedev.com/ros-4/</id>
+    <published>2020-04-05T16:29:08.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-3】嘴对嘴讲解ROS的核心概念——节点与节点管理器</title>
+    <link href="https://jiedev.com/ros-3/"/>
+    <id>https://jiedev.com/ros-3/</id>
+    <published>2020-04-04T16:29:08.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;我要给大家来介绍一下ROS当中一些核心的概念，帮助大家去在后面的ROS学习当中更快地吸收这些概念。&lt;/p&gt;
+&lt;h1
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-2】带你看ROS文件系统及其工具</title>
+    <link href="https://jiedev.com/ros-2/"/>
+    <id>https://jiedev.com/ros-2/</id>
+    <published>2020-04-04T16:29:06.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;ROS的架构经过设计并划分成了三部分， 每一部分都代表一个层级的概念：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件系统级（Filesystem
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【ROS入门-1】手把手教你在Ubuntu18.04安装ROS Melodic</title>
+    <link href="https://jiedev.com/ros-1/"/>
+    <id>https://jiedev.com/ros-1/</id>
+    <published>2020-04-04T04:09:01.000Z</published>
+    <updated>2021-04-29T10:48:39.694Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;先来一张ROS的美照：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./images/loading.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="ROS" scheme="https://jiedev.com/categories/ROS/"/>
+    
+    
+      <category term="ROS" scheme="https://jiedev.com/tags/ROS/"/>
+    
+      <category term="机器人操作系统" scheme="https://jiedev.com/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+</feed>
